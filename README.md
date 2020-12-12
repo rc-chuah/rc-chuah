@@ -12,6 +12,7 @@
 - 🕵️ I’m looking to collaborate with other content creators.
 - 💬 Join my [telegram](https://t.me/RaynerSec) channel
 - 💬 Join my [telegram](https://t.me/RaynerSec1) group
+- 💬 Join my [WhatsApp](https://chat.whatsapp.com/LDx17j3xCg3GWnQ3ScvnbI) group
 
 <p align="center">
   <a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-chuah&layout=compact"></a>
