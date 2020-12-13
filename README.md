@@ -5,7 +5,7 @@
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true" />
 </p>
 
-### Hi there, I'm RC Chuah 👋
+### Hi there, I'm RC Chuah 👋 Welcome To My Profile
 
 - 🧑🏻‍🏫 I’m currently working very hard.
 - 📖 I’m currently learning `Bash` and `Python` 
