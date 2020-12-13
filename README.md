@@ -4,6 +4,8 @@
 
 ## ⚡ WELCOME TO MY PROFILE
 
+<img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/44928288?s=460&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" />
+
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark&cache_seconds=3200" />
 </p>
 
