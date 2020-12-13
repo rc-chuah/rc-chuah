@@ -6,7 +6,7 @@
 </p>
 
 ### Hi there, I'm RC Chuah 👋
-### Welcome To My Profile
+#### Welcome To My Profile
 
 - 🧑🏻‍🏫 I’m currently working very hard.
 - 📖 I’m currently learning `Bash` and `Python` 
