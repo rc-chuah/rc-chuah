@@ -8,7 +8,7 @@
 ### Hi there, I'm RC Chuah 👋
 
 - 🧑🏻‍🏫 I’m currently working very hard.
-- 📖 I’m currently learning `bash` and `python` 
+- 📖 I’m currently learning `Bash` and `Python` 
 - 🕵️ I’m looking to collaborate with other content creators.
 - 💬 Join my [Telegram](https://t.me/RaynerSec) channel
 - 💬 Join my [Telegram](https://t.me/RaynerSec1) group
