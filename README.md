@@ -9,13 +9,6 @@
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark&cache_seconds=3200" />
 </p>
 
-<p align="center">
-<a href="https://github.com/rc-chuah"><img title="Github" src="https://img.shields.io/badge/Github-RC--Chuah-blue?style=for-the-badge&logo=github"></a>
-<a href="https://gitlab.com/RaynerSec"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-RaynerSec-blue?style=for-the-badge&logo=gitlab"></a>
-<a href="https://github.com/rc-chuah"><img title="Github" src="https://img.shields.io/badge/Github-RC--Chuah-blue?style=for-the-badge&logo=github"></a>
-<a href="https://gitlab.com/RaynerSec"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-RaynerSec-blue?style=for-the-badge&logo=gitlab"></a>
-</p>
-
 ### Hi there, I'm RC Chuah 👋
 
 - 🧑🏻‍🏫 I’m currently working very hard.
