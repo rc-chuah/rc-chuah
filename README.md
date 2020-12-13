@@ -15,7 +15,7 @@
 - 💬 Join my [WhatsApp](https://chat.whatsapp.com/LDx17j3xCg3GWnQ3ScvnbI) group
 
 <p align="center">
-  <a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-chuah&layout=compact"></a>
+  <a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-chuah&layout=compact&theme=dark"></a>
 </p>
 
 <p align="center">
