@@ -11,8 +11,8 @@
 
 <p align="center">
 <a href="https://github.com/rc-chuah"><img title="Github" src="https://img.shields.io/badge/Github-RC--Chuah-blue?style=for-the-badge&logo=github"></a>
-<a href="https://gitlab.com/rc-chuah"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-RC--Chuah-blue?style=for-the-badge&logo=gitlab"></a>
-<a href="https://github.com/RaynerSec"><img title="Github" src="https://img.shields.io/badge/Github-RaynerSec-blue?style=for-the-badge&logo=github"></a>
+<a href="https://gitlab.com/RaynerSec"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-RaynerSec-blue?style=for-the-badge&logo=gitlab"></a>
+<a href="https://github.com/rc-chuah"><img title="Github" src="https://img.shields.io/badge/Github-RC--Chuah-blue?style=for-the-badge&logo=github"></a>
 <a href="https://gitlab.com/RaynerSec"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-RaynerSec-blue?style=for-the-badge&logo=gitlab"></a>
 </p>
 
