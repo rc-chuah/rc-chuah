@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rc-chuah/Kali-Termux-Installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-chuah&repo=Kali-Termux-Installer"></a>
-<a href="https://github.com/rc-chuah/Kali-Nethunter-In-Termux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-chuah&repo=Kali-Nethunter-In-Termux"></a>
-<a href="https://github.com/rc-chuah/Win-Dev-Tools-Linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-chuah&repo=Win-Dev-Tools-Linux"></a>
+<a href="https://github.com/rc-chuah/Kali-Termux-Installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-chuah&repo=Kali-Termux-Installer&theme=dark"></a>
+<a href="https://github.com/rc-chuah/Kali-Nethunter-In-Termux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-chuah&repo=Kali-Nethunter-In-Termux&theme=dark"></a>
+<a href="https://github.com/rc-chuah/Win-Dev-Tools-Linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-chuah&repo=Win-Dev-Tools-Linux&theme=dark"></a>
 </p>
 
 <!--
