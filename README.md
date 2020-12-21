@@ -21,7 +21,7 @@
 #### Support the author by buying him a coffee!
 
 <a href="https://www.buymeacoffee.com/rcchuah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
-<a href="https://patreon.com/rc_chuah"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drc_chuah%26type%3Dpatrons&style=for-the-badge" /></a>
+<a href="https://www.patreon.com/rc_chuah?fan_landing=true"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drc_chuah%26type%3Dpatrons&style=for-the-badge" /></a>
 
 <p align="center">
   <a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-chuah&layout=compact&theme=dark"></a>
