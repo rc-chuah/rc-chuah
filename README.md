@@ -23,6 +23,7 @@
 <a href="https://www.buymeacoffee.com/rcchuah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
 <a href='https://ko-fi.com/rc_chuah' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <span class="badge-liberapay"><a href="https://liberapay.com/rc-chuah" title="Donate to this project using Liberapay"><img src="https://img.shields.io/badge/liberapay-donate-yellow.svg" alt="Liberapay donate button" /></a></span>
+<span class="badge-flattr"><a href="https://flattr.com/@rc-chuah" title="Donate to this project using Flattr"><img src="https://img.shields.io/badge/flattr-donate-yellow.svg" alt="Flattr donate button" /></a></span>
 <a href="https://www.patreon.com/rc_chuah?fan_landing=true"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drc_chuah%26type%3Dpatrons&style=for-the-badge" /></a>
 
 <p align="center">
