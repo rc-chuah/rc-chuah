@@ -18,7 +18,7 @@
 - 💬 Join my [Telegram](https://t.me/RaynerSec1) group
 - 💬 Join my [WhatsApp](https://chat.whatsapp.com/LDx17j3xCg3GWnQ3ScvnbI) group
 
-#### Support the author by buying him a coffee!
+#### Support me by buying me a coffee!
 
 <a href="https://www.buymeacoffee.com/rcchuah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
 <a href='https://ko-fi.com/rc_chuah' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
