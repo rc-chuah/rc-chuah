@@ -18,6 +18,10 @@
 - 💬 Join my [Telegram](https://t.me/RaynerSec1) group
 - 💬 Join my [WhatsApp](https://chat.whatsapp.com/LDx17j3xCg3GWnQ3ScvnbI) group
 
+#### Support the author by buying him a coffee!
+
+<a href="https://www.buymeacoffee.com/rcchuah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
+
 <p align="center">
   <a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-chuah&layout=compact&theme=dark"></a>
 </p>
