@@ -17,11 +17,30 @@
 ### Hi there, I'm RC Chuah 👋
 
 - 🧑🏻‍🏫 I’m currently working very hard.
+
 - 📖 I’m currently learning `Bash` and `Python` 
+
 - 🕵️ I’m looking to collaborate with other content creators.
+
 - 💬 Join my [Telegram](https://t.me/RaynerSec) channel
+
 - 💬 Join my [Telegram](https://t.me/RaynerSec1) group
+
 - 💬 Join my [WhatsApp](https://chat.whatsapp.com/LDx17j3xCg3GWnQ3ScvnbI) group
+
+- 👨‍💻 All of my projects are available at [https://github.com/rc-chuah](https://github.com/rc-chuah)
+
+- 👨‍💻 All of my projects are available at [https://github.com/RaynerSec](https://github.com/RaynerSec)
+
+- 📝 I write articles on [https://rc-chuah.blogspot.com/](https://rc-chuah.blogspot.com/)
+
+- 📝 I write articles on [https://raynersec.blogspot.com/](https://raynersec.blogspot.com/)
+
+- 💬 Ask me about **Hacking Cracking Programming**
+
+- 📫 How to reach me **raynersec@gmail.com**
+
+- ⚡ Fun fact **Hacking is Not a Crime !!! Its an Art ...**
 
 #### ☕ Support me by buying me a coffee!
 
