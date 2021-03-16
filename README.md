@@ -42,6 +42,20 @@
 
 - ⚡ Fun fact **Hacking is Not a Crime !!! Its an Art ...**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/raynersec.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RaynerSec" height="30" width="40" /></a>
+<a href="https://twitter.com/raynersec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="RaynerSec" height="30" width="40" /></a>
+<a href="https://instagram.com/rayner_sec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RaynerSec" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rc-chuah-7a7590a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RC Chuah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/raynersec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RaynerSec" height="30" width="40" /></a>
+<a href="https://medium.com/@rc-chuah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rc-chuah" height="30" width="40" /></a>
+<a href="https://medium.com/@RaynerSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@RaynerSec" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrbIDva6pmGKxfZ93Z40U4Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCrbIDva6pmGKxfZ93Z40U4Q" height="30" width="40" /></a>
+<a href="https://discord.gg/8ycD3RH" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/8ycD3RH" height="30" width="40" /></a>
+<a href="https://discord.gg/My2DpNu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/My2DpNu" height="30" width="40" /></a>
+</p>
+
 #### ☕ Support me by buying me a coffee!
 
 <a href="https://www.buymeacoffee.com/rcchuah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
