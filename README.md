@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://gpvc.arturio.dev/rc-chuah" alt="rc-chuah" /> </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=blue" alt="rc-chuah" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=brightgreen" alt="rc-chuah" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a> </p>
 
