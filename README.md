@@ -16,7 +16,8 @@
 </p>
 
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
+<p align="center">
+<a img src="https://github-readme-streak-stats.herokuapp.com/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></a>
 </p>
 
 ### Hi there, I'm RC Chuah 👋
@@ -88,7 +89,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-chuah&layout=compact&theme=dark"></a>
+<a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-chuah&layout=compact&theme=dark"></a>
 </p>
 
 <p align="center">
@@ -99,7 +100,4 @@
 
 <!--
 **rc-chuah/rc-chuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
 -->
