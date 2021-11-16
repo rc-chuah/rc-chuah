@@ -7,9 +7,9 @@
 
 <p align="center"><img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/44928288?s=460&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" /></p>
 
-<!-- <p align="left"> <img src="https://gpvc.arturio.dev/rc-chuah" alt="rc-chuah" /></p> -->
+<p align="left"> <img src="https://gpvc.arturio.dev/rc-chuah" alt="rc-chuah" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=brightgreen" alt="rc-chuah" /></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=brightgreen" alt="rc-chuah" /></p> -->
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
