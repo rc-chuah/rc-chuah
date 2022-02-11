@@ -31,8 +31,6 @@
 
 - 💬 Join my [Telegram](https://t.me/RaynerSec1) group
 
-- 💬 Join my [WhatsApp](https://chat.whatsapp.com/LDx17j3xCg3GWnQ3ScvnbI) group
-
 - 🌐 My Website [https://www.raynersec.ml](https://www.raynersec.ml)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rc-chuah](https://github.com/rc-chuah)
