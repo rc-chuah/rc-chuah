@@ -31,7 +31,7 @@
 
 - 💬 Join my [Telegram](https://t.me/RaynerSec1) group
 
-- 🌐 My Website [https://www.raynersec.ml](https://www.raynersec.ml)
+- 🌐 My Website [https://raynersec.github.io](https://raynersec.github.io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rc-chuah](https://github.com/rc-chuah)
 
