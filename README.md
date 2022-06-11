@@ -39,8 +39,6 @@
 
 - 📝 I write articles on [https://rc-chuah.blogspot.com/](https://rc-chuah.blogspot.com/)
 
-- 📝 I write articles on [https://raynersec.blogspot.com/](https://raynersec.blogspot.com/)
-
 - 💬 Ask me about **Hacking Cracking Programming**
 
 - 📫 How to reach me **raynersec@gmail.com**
