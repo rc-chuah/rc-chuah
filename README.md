@@ -23,7 +23,7 @@
 
 - 🧑🏻‍🏫 I’m currently working very hard.
 
-- 📖 I’m currently learning **Bash** and **Python**
+- 📖 I’m currently learning **Rust**, **Golang** and **Nim**
 
 - 🕵️ I’m looking to collaborate with other content creators.
 
