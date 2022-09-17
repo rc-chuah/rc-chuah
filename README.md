@@ -37,7 +37,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaynerSec](https://github.com/RaynerSec)
 
-- 📝 I write articles on [https://rc-chuah.blogspot.com/](https://rc-chuah.blogspot.com/)
+- 📝 I write articles on [https://rc-chuah.blogspot.com](https://rc-chuah.blogspot.com)
 
 - 💬 Ask me about **Hacking Cracking Programming**
 
