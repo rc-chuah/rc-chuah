@@ -43,7 +43,7 @@
 
 - 📫 How to reach me **raynersec@gmail.com**
 
-- ⚡ Fun fact **Hacking is Not a Crime !!! Its an Art ...**
+- ⚡ Fun fact **Hacking is Not a Crime !!! Its an Art.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
