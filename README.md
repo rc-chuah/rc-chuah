@@ -23,7 +23,7 @@
 
 - 🧑🏻‍🏫 I’m currently working very hard.
 
-- 📖 I’m currently learning **Rust**, **Golang** and **Nim**
+- 📖 I’m currently learning **Rust**, **Golang**, **Nim**, **Delphi**, **Fortran**, **Pascal** and **Ada**
 
 - 🕵️ I’m looking to collaborate with other content creators.
 
