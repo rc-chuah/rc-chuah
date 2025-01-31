@@ -17,7 +17,7 @@
 </p>
 
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
-<p><img align="center" src="https://streak-stats.demolab.com/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
 ## Hi there, I'm RC Chuah 👋
 
