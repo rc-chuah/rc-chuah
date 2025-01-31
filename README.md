@@ -17,7 +17,7 @@
 </p>
 
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
 ## Hi there, I'm RC Chuah 👋
 
@@ -83,7 +83,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
 </p>
 
 <p align="center">
