@@ -63,7 +63,7 @@
 #### ☕ Support me by buying me a coffee!
 
 <a href="https://www.buymeacoffee.com/rcchuah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
-<a href='https://ko-fi.com/rc_chuah' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://ko-fi.com/rc_chuah" target="_blank"><img height="35" style="border:0px;height:46px;" src="https://storage.ko-fi.com/cdn/kofi3.png" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
 <span class="badge-liberapay"><a href="https://liberapay.com/rc-chuah" title="Donate to this project using Liberapay"><img src="https://img.shields.io/badge/liberapay-donate-yellow.svg?style=for-the-badge" alt="Liberapay donate button" /></a></span>
 <span class="badge-opencollective"><a href="https://opencollective.com/rc-chuah" title="Donate to this project using Open Collective"><img src="https://img.shields.io/badge/open%20collective-donate-yellow.svg?style=for-the-badge" alt="Open Collective donate button" /></a></span>
 <span class="badge-flattr"><a href="https://flattr.com/@rc-chuah" title="Donate to this project using Flattr"><img src="https://img.shields.io/badge/flattr-donate-yellow.svg?style=for-the-badge" alt="Flattr donate button" /></a></span>
