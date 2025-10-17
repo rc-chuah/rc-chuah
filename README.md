@@ -16,9 +16,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
 </p>
 
-<p align="center">
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
-</p>
 
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
