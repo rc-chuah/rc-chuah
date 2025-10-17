@@ -21,11 +21,11 @@
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @rc-chuah">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="720" height="auto" alt="Dashboard stats of @rc-chuah">
 </a>
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=44928288&period=all_times" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Contribution Time Distribution of @rc-chuah">
+  <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="720" height="auto" alt="Contribution Time Distribution of @rc-chuah">
 </a>
 
 ## Hi there, I'm RC Chuah 👋
