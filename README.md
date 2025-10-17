@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=44928288&period=all_times" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="720" height="auto" alt="Contribution Time Distribution of @rc-chuah">
+  <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Contribution Time Distribution of @rc-chuah">
 </a>
 
 ## Hi there, I'm RC Chuah 👋
