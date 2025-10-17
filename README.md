@@ -10,9 +10,9 @@
 
 <p align="center"><img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/44928288?s=460&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=brightgreen" alt="rc-chuah" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=brightgreen" alt="rc-chuah" /></p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
 </p>
 
@@ -20,17 +20,13 @@
 
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
-    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @rc-chuah">
-  </a>
-</p>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @rc-chuah">
+</a>
 
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=44928288&period=all_times" target="_blank">
-    <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="720" height="auto" alt="Contribution Time Distribution of @rc-chuah">
-  </a>
-</p>
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=44928288&period=all_times" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="720" height="auto" alt="Contribution Time Distribution of @rc-chuah">
+</a>
 
 ## Hi there, I'm RC Chuah 👋
 
