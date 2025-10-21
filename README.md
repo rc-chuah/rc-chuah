@@ -16,17 +16,23 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
 </p>
 
+[![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=dark)](https://github.com/rc-chuah)
+
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Dashboard stats of @rc-chuah">
-</a>
+<p align="left">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
+    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Dashboard stats of @rc-chuah">
+  </a>
+</p>
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=44928288&period=all_times" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Contribution Time Distribution of @rc-chuah">
-</a>
+<p align="left">
+  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=44928288&period=all_times" target="_blank">
+    <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Contribution Time Distribution of @rc-chuah">
+  </a>
+</p>
 
 ## Hi there, I'm RC Chuah 👋
 
