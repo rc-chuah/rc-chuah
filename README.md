@@ -12,6 +12,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=for-the-badge&color=brightgreen" alt="rc-chuah" /></p>
 
+[![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat.](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat.-111827?style=for-the-badge&logo=databricks&logoColor=93c5fd)](https://dash.domain.digitalplat.org/signup?ref=fqFKuAnTHD)
+
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
 </p>
