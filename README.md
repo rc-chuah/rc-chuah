@@ -26,7 +26,11 @@
 
 <img alt="rc-chuah's Github Stats" src="https://github-stats-extended.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 
+<img alt="rc-chuah's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=rc-chuah&show_icons=true&theme=radical" />
+
 <p><img align="center" src="https://streak-stats.demolab.com/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
+
+<p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rc-chuah&theme=radical" alt="rc-chuah" /></p>
 
 <p align="left">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
