@@ -15,14 +15,18 @@
 [![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat.](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat.-111827?style=for-the-badge&logo=databricks&logoColor=93c5fd)](https://dash.domain.digitalplat.org/signup?ref=fqFKuAnTHD)
 
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
+<a href="https://github.com/Cyberbee-pro/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
+</p>
+
+<p align="left">
+<a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
 </p>
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=dark)](https://github.com/rc-chuah)
 
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
 <p align="left">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
