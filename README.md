@@ -44,6 +44,8 @@
   </a>
 </p>
 
+[<img align="center" src="https://wttr.in/Shah%20Alam.png" width="500" height="auto" alt="Weather"/>](https://wttr.in/Shah%20Alam)
+
 ## Hi there, I'm RC Chuah 👋
 
 - 🧑🏻‍🏫 I’m currently working very hard.
