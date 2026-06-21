@@ -44,7 +44,9 @@
   </a>
 </p>
 
-[<img align="center" src="https://wttr.in/Shah%20Alam.png" width="500" height="auto" alt="Weather"/>](https://wttr.in/Shah%20Alam)
+[<img align="center" src="https://wttr.in/Shah%20Alam.png?m" width="500" height="auto" alt="Weather"/>](https://wttr.in/Shah%20Alam)
+
+[<img align="center" src="https://wttr.in/Moon.png" width="500" height="auto" alt="Moon"/>](https://wttr.in/Moon)
 
 ## Hi there, I'm RC Chuah 👋
 
