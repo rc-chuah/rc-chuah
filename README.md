@@ -24,7 +24,7 @@
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=dark)](https://github.com/rc-chuah)
 
-<img alt="rc-chuah's Github Stats" src="https://github-stats-extended.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
+<img alt="rc-chuah's Github Stats" src="https://github-stats-extended.vercel.app/api?username=rc-chuah&show_icons=true&include_all_commits=true&theme=chartreuse-dark" />
 
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=rc-chuah&show_icons=true&theme=radical" />
 
