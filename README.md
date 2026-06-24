@@ -56,7 +56,10 @@
 [<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rc-chuah&area=true&theme=chartreuse-dark" width="500" height="auto" alt="RC Chuah's Github Activity Graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## GitAds Sponsored
+
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rc-chuah/rc-chuah@github)](https://gitads.dev/v1/ad-track?source=rc-chuah/rc-chuah@github)
+
+[![An image of @rc_chuah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rc_chuah)](https://holopin.io/@rc_chuah)
 
 ## Hi there, I'm RC Chuah 👋
 
