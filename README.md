@@ -63,7 +63,7 @@
 
 <img src="https://render.gitanimals.org/farms/rc-chuah" />
 
-<a href="https://daily.dev/rc_chuah"><img src="https://api.daily.dev/devcards/v2/giHCXf8VJsqC74FTLg2cW.png?type=wide&r=inc" width="500" alt="RC Chuah's Dev Card"/></a>
+<a href="https://daily.dev/rc_chuah"><img src="./devcard.png" width="500" alt="RC Chuah's Dev Card"/></a>
 
 ## Hi there, I'm RC Chuah 👋
 
