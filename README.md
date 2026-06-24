@@ -55,6 +55,9 @@
 
 [<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rc-chuah&area=true&theme=chartreuse-dark" width="500" height="auto" alt="RC Chuah's Github Activity Graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rc-chuah/rc-chuah@github)](https://gitads.dev/v1/ad-track?source=rc-chuah/rc-chuah@github)
+
 ## Hi there, I'm RC Chuah 👋
 
 - 🧑🏻‍🏫 I’m currently working very hard.
