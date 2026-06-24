@@ -1,4 +1,5 @@
 <p align="center">
+<!-- GitAds-Verify: H1WB7UWR2TR9DPWQXAOEGRZWB4TK4NF9 -->
 <!--  <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/44928288?s=460&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rc-chuah&hide=ruby,perl&hide_border=true" /> -->
 <!--  <a href="https://www.patreon.com/rc_chuah?fan_landing=true"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drc_chuah%26type%3Dpatrons&style=for-the-badge" /></a> -->
