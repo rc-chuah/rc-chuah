@@ -61,6 +61,10 @@
 
 [![An image of @rc_chuah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rc_chuah)](https://holopin.io/@rc_chuah)
 
+<img src="https://render.gitanimals.org/farms/rc-chuah" />
+
+<a href="https://daily.dev/rc_chuah"><img src="https://api.daily.dev/devcards/v2/giHCXf8VJsqC74FTLg2cW.png?type=wide&r=fd4" width="500" alt="RC Chuah's Dev Card"/></a>
+
 ## Hi there, I'm RC Chuah 👋
 
 - 🧑🏻‍🏫 I’m currently working very hard.
