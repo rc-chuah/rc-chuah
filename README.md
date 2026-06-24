@@ -52,6 +52,8 @@
 
 [<img align="center" src="https://wttr.in/Moon.png" width="500" height="auto" alt="Moon"/>](https://wttr.in/Moon)
 
+[<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rc-chuah&area=true&theme=chartreuse-dark" width="500" height="auto" alt="RC Chuah's Github Activity Graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Hi there, I'm RC Chuah 👋
 
 - 🧑🏻‍🏫 I’m currently working very hard.
