@@ -61,9 +61,11 @@
 
 [![An image of @rc_chuah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rc_chuah)](https://holopin.io/@rc_chuah)
 
-<img src="https://render.gitanimals.org/farms/rc-chuah" />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=rc-chuah&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/rc-chuah" width="500" height="auto" />
+</a>
 
-<a href="https://daily.dev/rc_chuah"><img src="./devcard.png" width="500" alt="RC Chuah's Dev Card"/></a>
+<a href="https://daily.dev/rc_chuah"><img src="./devcard.png" width="500" height="auto" alt="RC Chuah's Dev Card"/></a>
 
 ## Hi there, I'm RC Chuah 👋
 
