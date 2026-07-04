@@ -14,9 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=for-the-badge&color=brightgreen" alt="rc-chuah" /></p>
 
 [![committers.top badge](https://user-badge.committers.top/malaysia/rc-chuah.svg)](https://user-badge.committers.top/malaysia/rc-chuah)
-
 [![committers.top badge](https://user-badge.committers.top/malaysia_public/rc-chuah.svg)](https://user-badge.committers.top/malaysia_public/rc-chuah)
-
 [![committers.top badge](https://user-badge.committers.top/malaysia_private/rc-chuah.svg)](https://user-badge.committers.top/malaysia_private/rc-chuah)
 
 [![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat.](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat.-111827?style=for-the-badge&logo=databricks&logoColor=93c5fd)](https://dash.domain.digitalplat.org/signup?ref=fqFKuAnTHD)
