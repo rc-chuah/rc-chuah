@@ -33,9 +33,9 @@
 
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=rc-chuah&show_icons=true&theme=radical" />
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
+<p><img align="center" src="https://github-streak-stats-ruby.vercel.app/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=rc-chuah&mode=weekly&theme=chartreuse-dark" alt="rc-chuah" /></p>
+<p><img align="center" src="https://github-streak-stats-ruby.vercel.app/?user=rc-chuah&mode=weekly&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
 <p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rc-chuah&theme=radical" alt="rc-chuah" /></p>
 
