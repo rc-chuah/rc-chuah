@@ -51,9 +51,9 @@
   </a>
 </p>
 
-[<img align="center" src="https://wttr.in/3.167383,101.517857.png?m" width="500" height="auto" alt="Weather"/>](https://wttr.in/Shah%20Alam)
+[<img align="center" src="https://wttr.in/3.167383,101.517857.png?m" width="500" height="auto" alt="Weather"/>](https://wttr.in/3.167383,101.517857)
 
-[<img align="center" src="https://v2.wttr.in/3.167383,101.517857.png?m" width="500" height="auto" alt="Weather"/>](https://v2.wttr.in/Shah%20Alam)
+[<img align="center" src="https://v2.wttr.in/3.167383,101.517857.png?m" width="500" height="auto" alt="Weather"/>](https://v2.wttr.in/3.167383,101.517857)
 
 [<img align="center" src="https://wttr.in/Moon.png" width="500" height="auto" alt="Moon"/>](https://wttr.in/Moon)
 
