@@ -73,6 +73,10 @@
 
 <a href="https://daily.dev/rc_chuah"><img src="./devcard.png" width="500" height="auto" alt="RC Chuah's Dev Card"/></a>
 
+## Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## SWARL Certificate
 
 [![SWARL Certificate](https://certificates.swarl.org/certificate.php?r=S20791)](https://swarl.org)
