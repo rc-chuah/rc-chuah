@@ -51,6 +51,16 @@
   </a>
 </p>
 
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Languages By Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Languages By Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rc-chuah&theme=chartreuse_dark&utcOffset=0)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [<img align="center" src="https://wttr.in/3.167383,101.517857.png?m" width="500" height="auto" alt="Weather"/>](https://wttr.in/3.167383,101.517857)
 
 [<img align="center" src="https://v2.wttr.in/3.167383,101.517857.png?m" width="500" height="auto" alt="Weather"/>](https://v2.wttr.in/3.167383,101.517857)
