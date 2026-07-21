@@ -63,6 +63,8 @@
 
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rc-chuah/rc-chuah@github)](https://gitads.dev/v1/ad-track?source=rc-chuah/rc-chuah@github)
 
+## Holopin, GitAnimals And Daily.Dev Badges
+
 [![An image of @rc_chuah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rc_chuah)](https://holopin.io/@rc_chuah)
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=rc-chuah&utm_content=farm">
@@ -70,6 +72,10 @@
 </a>
 
 <a href="https://daily.dev/rc_chuah"><img src="./devcard.png" width="500" height="auto" alt="RC Chuah's Dev Card"/></a>
+
+## SWARL Certificate
+
+[![SWARL Certificate](https://certificates.swarl.org/certificate.php?r=S20791)](https://swarl.org)
 
 ## Hi there, I'm RC Chuah 👋
 
