@@ -39,6 +39,16 @@
 
 <p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rc-chuah&theme=radical" alt="rc-chuah" /></p>
 
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Languages By Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Languages By Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rc-chuah&theme=chartreuse_dark&utcOffset=0)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <p align="left">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
     <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Dashboard stats of @rc-chuah">
@@ -50,16 +60,6 @@
     <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Contribution Time Distribution of @rc-chuah">
   </a>
 </p>
-
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Top Languages By Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Top Languages By Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rc-chuah&theme=chartreuse_dark&utcOffset=0)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [<img align="center" src="https://wttr.in/3.167383,101.517857.png?m" width="500" height="auto" alt="Weather"/>](https://wttr.in/3.167383,101.517857)
 
