@@ -47,7 +47,7 @@
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rc-chuah&theme=chartreuse_dark&utcOffset=0)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rc-chuah&theme=chartreuse_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="left">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
@@ -85,7 +85,7 @@
 
 ## Random Dev Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## SWARL Certificate
 
