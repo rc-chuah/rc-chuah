@@ -87,6 +87,8 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+[![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=default&layout=default&font=default&quoteType=random)](https://github.com/zhravan/github-readme-quotes)
+
 ## SWARL Certificate
 
 [![SWARL Certificate](https://certificates.swarl.org/certificate.php?r=S20791)](https://swarl.org)
