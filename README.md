@@ -83,11 +83,17 @@
 
 <a href="https://daily.dev/rc_chuah"><img src="./devcard.png" width="500" height="auto" alt="RC Chuah's Dev Card"/></a>
 
-## Random Dev Quote
+## Random Dev Quotes
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=default&layout=default&font=default&quoteType=random)](https://github.com/zhravan/github-readme-quotes)
+[![Github Readme Quotes](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=default&layout=default&font=default&quoteType=random)](https://github.com/zhravan/github-readme-quotes)
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+## Random Dev Jokes
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&)](https://github.com/ABSphreak/readme-jokes)
 
 ## SWARL Certificate
 
