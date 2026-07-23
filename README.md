@@ -89,11 +89,11 @@
 
 [![Github Readme Quotes](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=default&layout=default&font=default&quoteType=random)](https://github.com/zhravan/github-readme-quotes)
 
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes)
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&border_width=0&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 ## Random Dev Jokes
 
-[![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&)](https://github.com/ABSphreak/readme-jokes)
+[![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)](https://github.com/ABSphreak/readme-jokes)
 
 ## SWARL Certificate
 
