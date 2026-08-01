@@ -9,7 +9,7 @@
 
 ## ⚡ WELCOME TO MY PROFILE
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=1000&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boldonse&size=27&pause=1000&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a></p>
 
 <p align="center"><img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/44928288?s=460&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" /></p>
 
