@@ -41,15 +41,15 @@
 
 <p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rc-chuah&theme=radical" alt="rc-chuah" /></p>
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Details](https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Languages By Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages By Repo](https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Languages By Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages By Commit](https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rc-chuah&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rc-chuah&theme=chartreuse_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive Time](https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="left">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
@@ -83,7 +83,7 @@
   <img src="https://render.gitanimals.org/farms/rc-chuah" width="500" height="auto" />
 </a>
 
-<a href="https://daily.dev/rc_chuah"><img src="./devcard.png" width="500" height="auto" alt="RC Chuah's Dev Card"/></a>
+<a href="https://daily.dev/rc_chuah"><img src="https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/devcard.png" width="500" height="auto" alt="RC Chuah's Dev Card"/></a>
 
 ## Random Dev Quotes
 
