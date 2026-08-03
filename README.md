@@ -173,20 +173,20 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rc-chuah&layout=compact&theme=dark"></a>
+<a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-stats-extended.vercel.app/api/top-langs?username=rc-chuah&layout=compact&langs_count=10000000000000000&theme=chartreuse-dark"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/rc-chuah/Kali-Nethunter-In-Termux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Kali-Nethunter-In-Termux&theme=dark"></a>
-<a href="https://github.com/rc-chuah/Hyper-V-Switch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Hyper-V-Switch&theme=dark"></a>
-<a href="https://github.com/rc-chuah/Hyper-V-Toggle"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Hyper-V-Toggle&theme=dark"></a>
-<a href="https://github.com/rc-chuah/Windows-Recall-Switch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Windows-Recall-Switch&theme=dark"></a>
-<a href="https://github.com/rc-chuah/Windows-Recall-Toggle"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Windows-Recall-Toggle&theme=dark"></a>
-<a href="https://github.com/rc-chuah/TermuxBackup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=TermuxBackup&theme=dark"></a>
-<a href="https://github.com/rc-chuah/pykalimux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=pykalimux&theme=dark"></a>
-<a href="https://github.com/rc-chuah/pymuxkali"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=pymuxkali&theme=dark"></a>
-<a href="https://github.com/rc-chuah/bashkalimux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=bashkalimux&theme=dark"></a>
-<a href="https://github.com/rc-chuah/bashmuxkali"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=bashmuxkali&theme=dark"></a>
+<a href="https://github.com/rc-chuah/Kali-Nethunter-In-Termux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Kali-Nethunter-In-Termux&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/Hyper-V-Switch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Hyper-V-Switch&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/Hyper-V-Toggle"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Hyper-V-Toggle&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/Windows-Recall-Switch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Windows-Recall-Switch&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/Windows-Recall-Toggle"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Windows-Recall-Toggle&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/TermuxBackup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=TermuxBackup&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/pykalimux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=pykalimux&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/pymuxkali"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=pymuxkali&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/bashkalimux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=bashkalimux&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/bashmuxkali"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=bashmuxkali&theme=chartreuse-dark"></a>
 </p>
 
 <!--
