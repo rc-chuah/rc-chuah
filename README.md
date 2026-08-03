@@ -35,6 +35,10 @@
 
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=rc-chuah&show_icons=true&theme=radical" />
 
+<img alt="rc-chuah's Github Stats" src="https://github-stats-extended.vercel.app/api?username=rc-chuah&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark" />
+
+<img alt="rc-chuah's Github Stats" src="https://github-stats-extended.vercel.app/api?username=rc-chuah&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=chartreuse-dark" />
+
 <p><img align="center" src="https://streak-stats.demolab.com/?user=rc-chuah&theme=chartreuse-dark" alt="rc-chuah" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=rc-chuah&mode=weekly&theme=chartreuse-dark" alt="rc-chuah" /></p>
