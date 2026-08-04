@@ -117,7 +117,7 @@
 
 - 💬 Join my [Telegram](https://t.me/RaynerSec1) group
 
-- 🌐 My Website [https://raynersec.github.io](https://raynersec.github.io)
+- 🌐 My Website [https://raynersec.dpdns.org](https://raynersec.dpdns.org)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rc-chuah](https://github.com/rc-chuah)
 
@@ -127,7 +127,7 @@
 
 - 💬 Ask me about **Hacking Cracking Programming**
 
-- 📫 How to reach me **raynersec@gmail.com**
+- 📫 How to reach me **contact@raynersec.dpdns.org**
 
 - ⚡ Fun fact **Hacking is Not a Crime !!! Its an Art.**
 
