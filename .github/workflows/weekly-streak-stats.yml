@@ -15,14 +15,14 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Generate weekly streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&mode=weekly&theme=chartreuse-dark
           path: profile/weekly-streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_STATS_GITHUB_TOKEN }}
 
       - name: Commit weekly streak stats
         run: |
