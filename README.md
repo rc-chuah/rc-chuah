@@ -29,7 +29,7 @@
 <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
 </p>
 
-[![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=dark)](https://github.com/rc-chuah)
+[![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=chartreuse-dark)](https://github.com/songquanpeng/stats-cards)
 
 <img alt="rc-chuah's Github Stats" src="https://github-stats-extended.vercel.app/api?username=rc-chuah&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark" />
 
