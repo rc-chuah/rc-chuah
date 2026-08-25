@@ -77,7 +77,7 @@
 
 [<img align="center" src="https://wttr.in/Moon.png" width="500" height="auto" alt="Moon"/>](https://wttr.in/Moon)
 
-[<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rc-chuah&area=true&theme=chartreuse-dark" width="500" height="auto" alt="RC Chuah's Github Activity Graph"/>](https://github.com/ashutosh00710/github-readme-activity-graph)
+[<img align="center" src="https://gh-stats-xcards.fly.dev/stats/rc-chuah?theme=chartreuse-dark&card=contribution-graph&hide_border=false" width="500" height="auto" alt="RC Chuah's Github Contribution Graph"/>](https://github.com/LuiisDev21/gh-stats-xcards)
 
 ## GitAds Sponsored
 
