@@ -71,7 +71,7 @@
 
 <a align="center" href="https://app.weathercloud.net/d8528771994"><img src="https://app.weathercloud.net/device/sticker/8528771994" width="500" height="auto"></a>
 
-<a align="center" href="https://infobanjirjps.selangor.gov.my/camera.html"><img src="https://infobanjirjps.selangor.gov.my/InfoBanjir.WebAdmin/CCTV_Image/13.jpg" width="500" height="auto"></a>
+<a align="center" href="https://hp2553.pro-weather.com" target="_blank" rel="noopener"><img src="https://hp2553.pro-weather.com/api/webcam/hp2553" alt="hp2553 weather webcam" width="500" height="auto"></a>
 
 [<img align="center" src="https://wttr.in/3.167383,101.517857.png?m" width="500" height="auto" alt="Weather"/>](https://wttr.in/3.167383,101.517857)
 
