@@ -16,7 +16,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
-
       - name: Generate weekly streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
