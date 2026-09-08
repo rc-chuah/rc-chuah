@@ -131,11 +131,11 @@
 
 - 📝 I write articles on [https://rc-chuah.blogspot.com](https://rc-chuah.blogspot.com)
 
-- 💬 Ask me about **Hacking Cracking Programming**
+- 💬 Ask me about **Ethical Hacking, Ethical Cracking And Programming**
 
 - 📫 How to reach me **contact@raynersec.dpdns.org**
 
-- ⚡ Fun fact **Hacking is Not a Crime !!! Its an Art.**
+- ⚡ Fun fact **Ethical Hacking is Not a Crime !!! Its an Art.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
