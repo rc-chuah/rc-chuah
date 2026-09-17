@@ -4,6 +4,9 @@ on:
   schedule: # Execute every 24 hours
     - cron: "0 0 * * *"
   push:
+    # Run any time this branch is modified
+    branches:
+      - main
     paths: # Run any time this file is modified
       - ".github/workflows/weekly-streak-stats.yml"
   # Run manually from the Actions tab
