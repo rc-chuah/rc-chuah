@@ -1,10 +1,12 @@
 name: daily-devcard
 on:
+  # Run manually from the Actions tab
   workflow_dispatch:
   push:
+    # Run any time this branch is modified
     branches:
       - main
-  schedule:
+  schedule: # Execute every 24 hours
     - cron: "0 0 * * *"
 jobs:
   devcard:
