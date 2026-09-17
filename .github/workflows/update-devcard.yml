@@ -3,6 +3,9 @@ on:
   # Run manually from the Actions tab
   workflow_dispatch:
   push:
+    # Run any time this branch is modified
+    branches:
+      - main
     paths: # Run any time this file is modified
       - ".github/workflows/update-devcard.yml"
   schedule: # Execute every 24 hours
