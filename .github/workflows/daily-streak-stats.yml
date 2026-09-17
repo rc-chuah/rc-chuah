@@ -1,11 +1,12 @@
 name: Update daily streak stats
 
 on:
-  schedule:
-    - cron: "0 3 * * *"
+  schedule: # Execute every 24 hours
+    - cron: "0 0 * * *"
   push:
-    paths:
+    paths: # Run any time this file is modified
       - ".github/workflows/daily-streak-stats.yml"
+  # Run manually from the Actions tab
   workflow_dispatch:
 
 # Prevent two instances from updating main simultaneously.
