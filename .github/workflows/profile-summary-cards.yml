@@ -3,6 +3,9 @@ name: GitHub-Profile-Summary-Cards
 on:
   schedule: # Execute every 24 hours
     - cron: "0 0 * * *"
+  push:
+    paths: # Run any time this file is modified
+      - ".github/workflows/profile-summary-cards.yml"
   # Run manually from the Actions tab
   workflow_dispatch:
 
