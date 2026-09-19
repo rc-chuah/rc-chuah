@@ -6,6 +6,7 @@
 <!--  <p align="left"> <img src="https://gpvc.arturio.dev/rc-chuah" alt="rc-chuah" /></p> -->
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=brightgreen" alt="rc-chuah" /></p> -->
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=blue" alt="rc-chuah" /></p> -->
+<!-- [![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=chartreuse-dark)](https://github.com/songquanpeng/stats-cards) -->
 
 ## ⚡ WELCOME TO MY PROFILE
 
@@ -28,8 +29,6 @@
 <p align="left">
 <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=rc-chuah&theme=onedark" alt="rc-chuah" /></a>
 </p>
-
-[![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=chartreuse-dark)](https://github.com/songquanpeng/stats-cards)
 
 <img alt="rc-chuah's Github Stats" src="https://github-stats-extended.vercel.app/api?username=rc-chuah&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark" />
 
