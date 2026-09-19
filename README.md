@@ -7,6 +7,20 @@
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=brightgreen" alt="rc-chuah" /></p> -->
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=blue" alt="rc-chuah" /></p> -->
 <!-- [![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=chartreuse-dark)](https://github.com/songquanpeng/stats-cards) -->
+<!--
+<p align="left">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
+    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Dashboard stats of @rc-chuah">
+  </a>
+</p>
+-->
+<!--
+<p align="left">
+  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=44928288&period=all_times" target="_blank">
+    <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Contribution Time Distribution of @rc-chuah">
+  </a>
+</p>
+-->
 
 ## ⚡ WELCOME TO MY PROFILE
 
@@ -53,18 +67,6 @@
 [![Stats](https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Productive Time](https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<p align="left">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
-    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Dashboard stats of @rc-chuah">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=44928288&period=all_times" target="_blank">
-    <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=44928288&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Contribution Time Distribution of @rc-chuah">
-  </a>
-</p>
 
 <a align="center" href="https://hp2553.pro-weather.com" target="_blank" rel="noopener"><img src="https://hp2553.pro-weather.com/badge.svg?size=card&amp;theme=dark&amp;units=metric&amp;lang=en" alt="hp2553 weather" width="500" height="auto"></a>
 
