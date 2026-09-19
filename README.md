@@ -7,6 +7,7 @@
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=brightgreen" alt="rc-chuah" /></p> -->
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=blue" alt="rc-chuah" /></p> -->
 <!-- [![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=chartreuse-dark)](https://github.com/songquanpeng/stats-cards) -->
+<!-- [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&border_width=0&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes) -->
 <!--
 <p align="left">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
@@ -101,8 +102,6 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Github Readme Quotes](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=default&layout=default&font=default&quoteType=random)](https://github.com/zhravan/github-readme-quotes)
-
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&border_width=0&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 ## Random Dev Jokes
 
