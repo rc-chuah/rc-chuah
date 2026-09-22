@@ -8,6 +8,7 @@
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&style=flat-square&color=blue" alt="rc-chuah" /></p> -->
 <!-- [![GitHub Info](https://stats.justsong.cn/api/github?username=rc-chuah&theme=chartreuse-dark)](https://github.com/songquanpeng/stats-cards) -->
 <!-- [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&border_width=0&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes) -->
+<!-- [<img align="center" src="https://gh-stats-xcards.fly.dev/stats/rc-chuah?theme=chartreuse-dark&card=contribution-graph&hide_border=false" width="500" height="auto" alt="RC Chuah's Github Contribution Graph"/>](https://github.com/LuiisDev21/gh-stats-xcards) -->
 <!--
 <p align="left">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
@@ -82,8 +83,6 @@
 [<img align="center" src="https://wttr.in/Moon.png" width="500" height="auto" alt="Moon"/>](https://wttr.in/Moon)
 
 [<img align="center" src="https://github.pumbas.net/api/contributions/rc-chuah?colour=7FFF00&bgColour=000000&dotColour=7FFF00" width="500" height="auto" alt="RC Chuah's Github Contribution Graph"/>](https://github.com/pumbas600/github-contributions)
-
-[<img align="center" src="https://gh-stats-xcards.fly.dev/stats/rc-chuah?theme=chartreuse-dark&card=contribution-graph&hide_border=false" width="500" height="auto" alt="RC Chuah's Github Contribution Graph"/>](https://github.com/LuiisDev21/gh-stats-xcards)
 
 ## GitAds Sponsored
 
