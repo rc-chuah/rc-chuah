@@ -138,7 +138,6 @@
 
 - ⚡ Fun fact **Ethical Hacking is Not a Crime !!! Its an Art.**
 
-<!--
 ---
 
 ### 🌐 The Complete Programming & Scripting Language Landscape
@@ -290,7 +289,6 @@
 </details>
 
 ---
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
