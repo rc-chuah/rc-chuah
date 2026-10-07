@@ -10,6 +10,10 @@
 <!-- [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&border_width=0&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes) -->
 <!-- [<img align="center" src="https://gh-stats-xcards.fly.dev/stats/rc-chuah?theme=chartreuse-dark&card=contribution-graph&hide_border=false" width="500" height="auto" alt="RC Chuah's Github Contribution Graph"/>](https://github.com/LuiisDev21/gh-stats-xcards) -->
 <!--
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rc-chuah/rc-chuah@github)](https://gitads.dev/v1/ad-track?source=rc-chuah/rc-chuah@github)
+-->
+<!--
 <p align="left">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44928288" target="_blank">
     <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44928288&image_size=auto&color_scheme=dark" width="500" height="auto" alt="Dashboard stats of @rc-chuah">
@@ -83,10 +87,6 @@
 [<img align="center" src="https://wttr.in/Moon.png" width="500" height="auto" alt="Moon"/>](https://wttr.in/Moon)
 
 [<img align="center" src="https://github.pumbas.net/api/contributions/rc-chuah?colour=7FFF00&bgColour=000000&dotColour=7FFF00" width="500" height="auto" alt="RC Chuah's Github Contribution Graph"/>](https://github.com/pumbas600/github-contributions)
-
-## GitAds Sponsored
-
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rc-chuah/rc-chuah@github)](https://gitads.dev/v1/ad-track?source=rc-chuah/rc-chuah@github)
 
 ## Holopin, GitAnimals And Daily.Dev Badges
 
