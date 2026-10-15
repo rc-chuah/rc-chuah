@@ -58,9 +58,9 @@
 
 <img alt="rc-chuah's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=rc-chuah&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" />
 
-<p><img align="center" src="https://github.com/rc-chuah/rc-chuah/blob/main/profile/daily-streak.svg" alt="rc-chuah" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/profile/daily-streak.svg" alt="rc-chuah" /></p>
 
-<p><img align="center" src="https://github.com/rc-chuah/rc-chuah/blob/main/profile/weekly-streak.svg" alt="rc-chuah" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/profile/weekly-streak.svg" alt="rc-chuah" /></p>
 
 <p><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rc-chuah&theme=radical" alt="rc-chuah" /></p>
 
@@ -86,7 +86,7 @@
 
 [<img align="center" src="https://wttr.in/Moon.png" width="500" height="auto" alt="Moon"/>](https://wttr.in/Moon)
 
-[<img align="center" src="https://awesometime.vercel.app/api?type=year-progress&period=year&locale=en&font=mono&tz=Asia/Kuala_Lumpur&style=terminal&theme=github-dark" width="500" height="auto" alt="Year Progress"/>](https://github.com/tiger-dreams/awesometime)
+[<img align="center" src="https://raw.githubusercontent.com/rc-chuah/rc-chuah/main/awesome-time.svg" width="500" height="auto" alt="Year Progress"/>](https://github.com/tiger-dreams/awesometime)
 
 [<img align="center" src="https://github.pumbas.net/api/contributions/rc-chuah?colour=7FFF00&bgColour=000000&dotColour=7FFF00" width="500" height="auto" alt="RC Chuah's Github Contribution Graph"/>](https://github.com/pumbas600/github-contributions)
 
