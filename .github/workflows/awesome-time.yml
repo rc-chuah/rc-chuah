@@ -1,0 +1,31 @@
+name: Update Awesome Time Badge
+
+on:
+  schedule: # Execute every 24 hours
+    - cron: "0 0 * * *"
+  push:
+    # Run any time this branch is modified
+    branches:
+      - main
+    paths: # Run any time this file is modified
+      - ".github/workflows/awesome-time.yml"
+  # Run manually from the Actions tab
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: tiger-dreams/awesometime@v1
+        with:
+          type: year-progress
+          period: year
+          style: terminal
+          theme: github-dark
+          locale: en
+          font: mono
+          tz: Asia/Kuala_Lumpur
+          output-path: awesome-time.svg
+          commit-message: "chore: update awesometime badge"
