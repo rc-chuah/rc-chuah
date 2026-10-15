@@ -86,7 +86,7 @@
 
 [<img align="center" src="https://wttr.in/Moon.png" width="500" height="auto" alt="Moon"/>](https://wttr.in/Moon)
 
-[<img align="center" src="https://awesometime.vercel.app/api" width="500" height="auto" alt="Year Progress"/>](https://awesometime.vercel.app)
+[<img align="center" src="https://awesometime.vercel.app/api?type=year-progress&period=year&locale=en&font=mono&tz=Asia/Kuala_Lumpur&style=terminal&theme=github-dark" width="500" height="auto" alt="Year Progress"/>](https://github.com/tiger-dreams/awesometime)
 
 [<img align="center" src="https://github.pumbas.net/api/contributions/rc-chuah?colour=7FFF00&bgColour=000000&dotColour=7FFF00" width="500" height="auto" alt="RC Chuah's Github Contribution Graph"/>](https://github.com/pumbas600/github-contributions)
 
