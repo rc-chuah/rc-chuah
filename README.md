@@ -118,7 +118,7 @@
 
 - 🧑🏻‍🏫 I’m currently working very hard.
 
-- 📖 I’m currently learning **Rust**, **Golang**, **Nim**, **Delphi**, **Fortran**, **Pascal** and **Ada**
+- 📖 I’m currently learning **C3 Programming Language**
 
 - 🕵️ I’m looking to collaborate with other content creators.
 
