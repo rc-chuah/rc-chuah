@@ -118,8 +118,6 @@
 
 - 🧑🏻‍🏫 I’m currently working very hard.
 
-- 📖 I’m currently learning **C3 Programming Language**
-
 - 🕵️ I’m looking to collaborate with other content creators.
 
 - 💬 Join my [Telegram](https://t.me/RaynerSec) channel
@@ -154,6 +152,7 @@
 *   **Golang** 🐹 - Concurrency-focused infrastructure language heavily used for network multi-threading, custom port scanners, and C2 development.
 *   **Nim** 👑 - High-performance compiled language that outputs optimized C/C++, widely deployed for custom malware evasion frameworks.
 *   **Zig** ⚡ - A minimalist systems platform built to expose explicit memory control as a safer, modern alternative to C.
+*   **C3** 🛠️ - An evolutionary development of C focused on improving developer ergonomics, macro ergonomics, and semantic safety while remaining fully compatible with the C ABI.
 *   **C / C++** 💻 - The universal bedrock for building operational software, kernels, drivers, and writing direct exploitation payloads.
 </details>
 
