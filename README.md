@@ -76,6 +76,8 @@
 
 <a align="center" href="https://hp2553.pro-weather.com" target="_blank" rel="noopener"><img src="https://hp2553.pro-weather.com/badge.svg?size=card&amp;theme=dark&amp;units=metric&amp;lang=en" alt="hp2553 weather" width="500" height="auto"></a>
 
+<a align="center" href="https://skyvex.org/share/l79ptgyhec"><img src="https://skyvex.org/banner/EF0BDJ.png" alt="Shah Alam, Selangor – Skyvex" width="500" height="auto"></a>
+
 <a align="center" href="https://app.weathercloud.net/d8528771994"><img src="https://app.weathercloud.net/device/sticker/8528771994" width="500" height="auto"></a>
 
 <a align="center" href="https://hp2553.pro-weather.com" target="_blank" rel="noopener"><img src="https://hp2553.pro-weather.com/api/webcam/hp2553" alt="hp2553 weather webcam" width="500" height="auto"></a>
