@@ -347,7 +347,7 @@
 <a href="https://github.com/rc-chuah/Hyper-V-Toggle"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=Hyper-V-Toggle&theme=chartreuse-dark"></a>
 <a href="https://github.com/rc-chuah/weewx-nuvoler"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=weewx-nuvoler&theme=chartreuse-dark"></a>
 <a href="https://github.com/rc-chuah/weewx-temperaturnu"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=weewx-temperaturnu&theme=chartreuse-dark"></a>
-<a href="https://github.com/rc-chuah/TermuxBackup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=TermuxBackup&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/termux-backup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=termux-backup&theme=chartreuse-dark"></a>
 </p>
 
 <!--
