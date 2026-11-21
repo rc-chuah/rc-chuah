@@ -349,6 +349,7 @@
 <a href="https://github.com/rc-chuah/weewx-temperaturnu"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=weewx-temperaturnu&theme=chartreuse-dark"></a>
 <a href="https://github.com/rc-chuah/termux-backup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=termux-backup&theme=chartreuse-dark"></a>
 <a href="https://github.com/rc-chuah/termux-keyring-store"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=termux-keyring-store&theme=chartreuse-dark"></a>
+<a href="https://github.com/rc-chuah/scoop-bucket"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rc-chuah&repo=scoop-bucket&theme=chartreuse-dark"></a>
 </p>
 
 <!--
